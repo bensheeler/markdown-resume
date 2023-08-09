@@ -3,19 +3,13 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Your Resume in Markdown
+title: Ben Sheeler
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
-keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
 author:
-- I am the author
-subject: 'Subject'
+- Ben Sheeler
+subject: 'Resume'
 ---
-# Ben Sheeler
-[bensheeler@gmail.com](mailto:bensheeler@gmail.com) |
-717-576-8947
+[bensheeler@gmail.com](mailto:bensheeler@gmail.com) | 717-576-8947
 
 ## Work Experience
 
