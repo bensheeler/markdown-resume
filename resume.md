@@ -13,65 +13,48 @@ author:
 - I am the author
 subject: 'Subject'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+# Ben Sheeler
+[bensheeler@gmail.com](mailto:bensheeler@gmail.com) |
+717-576-8947
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
+## Work Experience
 
-## Skills
+### **Amazon** - Software Engineer
+*June 2022 - current*
+- Enhanced config propogation to include SSL certificates which allowed customers to inspect TLS traffic.
+- Designed new service that would provide functionality to check the revocation status of SSL certificates
+- Enhanced the metering / billing component using Java to enable metering additional product features 
+- Improved efficiency and robustness of the metering component when processing large data sets by using multiple Dynamo Db partitions.
+- Fixed critical bugs in our infrastructure deployment logic to decrease deployment time by up to a week.
+- **Key Tech** - Java, Python, AWS, DynamoDB
 
-```programming```
-```devops```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-```WordPress```
+### **Omnicell** - Software Engineer 3
+*November 2020 - June 2022*
+- Worked on transitioning a legacy code base to a cloud based, microservice architecture using Azure, Kubernetes, and .NET which enabled increased scalability.
+- Built front end web applications using Angular, Nx and Typescript, targeting multiple screen sizes and utilizing server side rendering to decrease load times.
+- Developed common, shareable packages for cross team use to help decrease development time on common tasks.
+- **Key Tech** - C#, Typescript, Javascript, Angular, .NET, RabbitMQ
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
+### **Kroll** - Senior Software Engineer
+*September 2017 - Novermber 2020*
+- Migrated applications from on prem to AWS, heavily utilizing ec2.
+- Developed an application using .net core and integrating with Plaid API to track financial transactions to detect anomalous spending and alert users of potential fraud.
+- Developed a message based system using RabbitMQ to sync data in near real time between a custom application and Salesforce.
+- Updated messaging system to use multiple RabbitMQ nodes to reduce message loss to nearly 0%.
+- **Key Tech** - C#, Javascript, Typescript, Angular, VueJS, AWS, .NET, RabbitMQ
 
-## Experience
-
-### CEO and Founder, Pied Piper
-
-start-date-end-date, City, State and remote
-
-- Things you did/do here
-- More things that you do here.
-
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
-
-### Senior Software Architect, Hooli
-
-2010-2016, San Francisco, CA
-
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
-
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
-
-## Awards & Recognition
-
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
-
-## Projects
-
-**[*Personal Blog*](http://luther.io)** (2021-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+### **Computer Aid, Inc** - Software Engineer
+*May 2014 - September 2017*
+* Developed web applications using ASP.NET MVC, Web API, and Angular JS
+* Mentored and trained junior developers and interns using a 4-6 week project based curriculum.
+* Implemented a CI and CD pipeline using Azure DevOps
+- **Key Tech** - C#, .NET, Javascript, Angular
 
 ## Education
 
-### Masters in BS, Example University
+### **Messiah College** - B.S. Computer and Information Science
+*Aug 2010 - May 2014*
 
-- 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
+## Skills
+
+C#, Javascript, Typescript, Java, Python, .NET, Angular, VueJS, AWS, Azure, SQL Server, PostgreSQL, DynamoDB
