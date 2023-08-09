@@ -14,8 +14,11 @@ subject: 'Resume'
 ## Work Experience
 
 ### **Amazon** - Software Engineer
+
 *June 2022 - current*
+
 - Enhanced config propogation to include SSL certificates which allowed customers to inspect TLS traffic.
+
 - Designed new service that would provide functionality to check the revocation status of SSL certificates
 - Enhanced the metering / billing component using Java to enable metering additional product features 
 - Improved efficiency and robustness of the metering component when processing large data sets by using multiple Dynamo Db partitions.
