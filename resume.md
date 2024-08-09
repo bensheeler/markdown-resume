@@ -13,7 +13,7 @@ subject: 'Resume'
 
 ## Work Experience
 
-### **OpenLane*** - Senior Software Engineer
+### **OpenLane** - Senior Software Engineer
 
 *November 2023 - current*
 
