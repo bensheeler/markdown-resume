@@ -13,9 +13,17 @@ subject: 'Resume'
 
 ## Work Experience
 
+### **OpenLane*** - Senior Software Engineer
+
+*November 2023 - current*
+
+- Designed and built an API in C# / .NET to facilitate dynamic automobile inspections
+- Managed terraform and kubernetes configuration for AWS deployments
+- **Key Tech** - C#, AWS, Kubernetes, PostgreSQL, .NET
+
 ### **Amazon** - Software Engineer
 
-*June 2022 - current*
+*June 2022 - November 2023*
 
 - Enhanced config propogation to include SSL certificates which allowed customers to inspect TLS traffic.
 - Designed new service that would provide functionality to check the revocation status of SSL certificates
